@@ -1,1 +1,3 @@
 this is file 2
+
+line is added in local git repo
